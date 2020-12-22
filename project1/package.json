@@ -1,8 +1,7 @@
 {
   "name": "blockchainlabs",
   "version": "1.0.0",
-  "description": "",
-  "main": "pow.js",
+  "main": "blockchain.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
@@ -12,5 +11,7 @@
   "dependencies": {
     "crypto": "^1.0.1",
     "crypto-js": "^4.0.0"
-  }
+  },
+  "devDependencies": {},
+  "description": ""
 }
